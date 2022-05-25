@@ -21,7 +21,7 @@
 					<mrow>B &amp; = \{x : x \in \mathbb N \text{ y } x \text{ es primo}\},</mrow>
 					<mrow>C &amp; = \{ x : x \in \mathbb N \text{ y } x \text{ es un múltiplo de 5}\}.</mrow>
 				</md>
-			Describa cada uno de ls siguientes conjuntos.
+			Describa cada uno de los siguientes conjuntos.
 				<ol cols="2">
 
 					<li><p><m>A \cap B</m></p></li>
@@ -247,7 +247,7 @@
  
 					<li><p>Si <m>f</m> y <m>g</m> son ambas funciones 1-1, muestre que <m>g \circ f</m> es 1-1.</p></li>
  
-					<li><p>Si <m>g \circ f</m> es dobre, muestre que <m>g</m> es sobre.</p></li>
+					<li><p>Si <m>g \circ f</m> es sobre, muestre que <m>g</m> es sobre.</p></li>
  
 					<li><p>Si <m>g \circ f</m> es 1-1, muestre que <m>f</m> es 1-1.</p></li>
  
