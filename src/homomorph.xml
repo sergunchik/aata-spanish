@@ -35,7 +35,7 @@
 			<me>\phi( g_1 \cdot g_2 ) = \phi( g_1 ) \circ \phi( g_2 )\qquad \forall g_1, g_2 \in G</me>
 		La imagen de <m>\phi</m> en <m>H</m> se llama <term>imagen homomorfa</term><idx><h>Imagen homomorfa</h></idx> de <m>\phi</m>.</p>
 
-		<p>Dos grupos están relacionados de la forma más fuerte posible si son isomorfos; sin embargo nua relación más débil puede también existir entre dos grupos.  Por ejemplo, el grupo simétrico <m>S_n</m> y el grupo <m>{\mathbb Z}_2</m> están relacionados por el hecho de que <m>S_n</m> puede ser dividido en permutaciones pares e impares que exhiben una estructura de grupos similar a la de <m>{\mathbb Z}_2</m>, como se muestra en la siguiente tabla de multiplicación.</p>
+		<p>Dos grupos están relacionados de la forma más fuerte posible si son isomorfos; sin embargo una relación más débil puede también existir entre dos grupos.  Por ejemplo, el grupo simétrico <m>S_n</m> y el grupo <m>{\mathbb Z}_2</m> están relacionados por el hecho de que <m>S_n</m> puede ser dividido en permutaciones pares e impares que exhiben una estructura de grupos similar a la de <m>{\mathbb Z}_2</m>, como se muestra en la siguiente tabla de multiplicación.</p>
 
 		<sidebyside width="100%"> <!-- math table -->
 			<p><me>\begin{array}{c|cc}
